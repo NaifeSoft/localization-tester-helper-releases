@@ -6,7 +6,7 @@ It streamlines the localization work in the testing side by automating a number 
 - [General info and features](https://github.com/NaifeSoft/localization-tester-helper-releases#current-features)
 - [Installation and first run](https://github.com/Potajito/localization-tester-helper-test/blob/main/Installation%20and%20first%20run.md)
 - [Planned features](https://github.com/NaifeSoft/localization-tester-helper-releases/tree/main#planned-features)
-- [Download releases]([https://github.com/NaifeSoft/localization-tester-helper-releases#current-features](https://github.com/NaifeSoft/localization-tester-helper-releases/releases))
+- [Download releases](https://github.com/NaifeSoft/localization-tester-helper-releases/releases)
 
 
 ### Current features
