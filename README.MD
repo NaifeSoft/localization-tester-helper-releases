@@ -5,7 +5,7 @@ It streamlines the localization work in the testing side by automating a number 
 
 - [General info and features](https://github.com/NaifeSoft/localization-tester-helper-releases#current-features)
 - [Installation and first run](https://github.com/NaifeSoft/localization-tester-helper-releases/blob/main/Installation%20and%20first%20run.md)
-- [Planned features](https://github.com/NaifeSoft/localization-tester-helper-releases/tree/main#planned-features)
+- [Planned features](https://github.com/NaifeSoft/localization-tester-helper-releases#planned-features)
 - [Download releases](https://github.com/NaifeSoft/localization-tester-helper-releases/releases)
 
 
