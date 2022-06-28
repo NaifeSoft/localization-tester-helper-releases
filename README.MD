@@ -26,7 +26,7 @@ It streamlines the localization work in the testing side by automating a number 
 - [x] Change history per cell, with user, comment and date info. Past changes are also a click away, even in newly imported files.
 - [x] Theming. System theme, dark theme and light theme.
 - [x] Show context of strings. Instead of just showing matches, the results include strings that are 'near' the actual results (and differentiate them), thus giving more context on the strings shown.
-- [x] CAT Termbase importing/referencing while making a change. Multiple termbase import, so it's possible to import 
+- [x] CAT Termbase importing/referencing while making a change. Multiple termbase import, so it's possible to import different glossaries. For example a project glossary and one or multiple style guides.
 
 
  ### Workflow
