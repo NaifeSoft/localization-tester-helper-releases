@@ -3,10 +3,10 @@
 Localization Tester Helper is a localization tool that acts as a proxy between the developer/client supplied excel/tabulated files and the localization testing department.
 It streamlines the localization work in the testing side by automating a number of common tasks while providing a full set of tools for the testers and the managers.
 
-- [General info and features](https://github.com/Potajito/localization-tester-helper-test/edit/main/README.md#current-features)
+- [General info and features](https://github.com/NaifeSoft/localization-tester-helper-releases#current-features)
 - [Installation and first run](https://github.com/Potajito/localization-tester-helper-test/blob/main/Installation%20and%20first%20run.md)
-- [Planned features](https://github.com/Potajito/localization-tester-helper-test/edit/main/README.md#planned-features)
-- [Download releases](https://github.com/NaifeSoft/localization-tester-helper-releases/releases)
+- [Planned features](https://github.com/NaifeSoft/localization-tester-helper-releases/tree/main#planned-features)
+- [Download releases]([https://github.com/NaifeSoft/localization-tester-helper-releases#current-features](https://github.com/NaifeSoft/localization-tester-helper-releases/releases))
 
 
 ### Current features
